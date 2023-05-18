@@ -45,5 +45,5 @@ void main()
 
 	cout << endl;
 	end = clock() / CLOCKS_PER_SEC;
-	cout << "¼öÇà½Ã°£ : " << ((double)end - start)/CLOCKS_PER_SEC;
+	cout << "Â¼Ã¶Ã‡Ã Â½ÃƒÂ°Â£ : " << ((double)end - start)/CLOCKS_PER_SEC;
 }
