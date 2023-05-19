@@ -50,12 +50,12 @@ void main()
 		}
 
 
-	} while (getc(stdin) == ' '); // ÀÔ·ÂÀÌ ³¡³¯ ¶§ Å»Ãâ (¼÷Áö ÇÒ °Í)
+	} while (getc(stdin) == ' '); // ì…ë ¥ì´ ëë‚  ë•Œ íƒˆì¶œ (ìˆ™ì§€ í•  ê²ƒ)
 
 	std::cout << x <<' '<< y;
 
 
 	std::cout << std::endl;
 	end = clock() / CLOCKS_PER_SEC;
-	std::cout << "¼öÇà½Ã°£ : " << ((double)end - start) / CLOCKS_PER_SEC;
+	std::cout << "ìˆ˜í–‰ì‹œê°„ : " << ((double)end - start) / CLOCKS_PER_SEC;
 }
