@@ -6,7 +6,7 @@
 0 ≤ num2 ≤ 100
 
 입출력 예
-num1	num2	result
+num1  num2  result
 3      4      12
 27     19    513
 
